@@ -1,4 +1,20 @@
-### Hi there 👋
+<!-- Header   -->
+<h1 align="center">
+  Hello!!
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1647437725/56241/pikawave.gif?1647437725" width="36">
+  I'm Mudit Chopra
+</h1>
+
+<h2 align="center">I'm a DevOps Engineer, a Cloud developer, and a tech enthusiast!!</h2>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muditchopra" target="blank"><img align="center" src="https://icons8.com/icon/8808/linkedin" alt="Linkedin" widht="42" height="42" /></a> 
+  <a href="https://twitter.com/muditch0pra" target="blank"><img align="center" src="https://icons8.com/icon/8824/twitter" alt="Twitter" widht="42" height="42" /></a>
+</p>
+
+<img align="right" src="https://user-images.githubusercontent.com/41297529/270094438-052969aa-e9b4-4791-a56f-029af377976e.png" alt="mudit" height="400" />
+
 
 <!--
 **muditchopra/muditchopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
