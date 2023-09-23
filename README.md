@@ -9,8 +9,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/muditchopra" target="blank"><img align="center" src="https://icons8.com/icon/8808/linkedin" alt="Linkedin" widht="42" height="42" /></a> 
-  <a href="https://twitter.com/muditch0pra" target="blank"><img align="center" src="https://icons8.com/icon/8824/twitter" alt="Twitter" widht="42" height="42" /></a>
+  <a href="https://www.linkedin.com/in/muditchopra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="Linkedin" widht="40" height="30" /></a> 
+  <a href="https://twitter.com/muditch0pra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="Twitter" widht="40" height="30" /></a>
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/41297529/270094438-052969aa-e9b4-4791-a56f-029af377976e.png" alt="mudit" height="400" />
