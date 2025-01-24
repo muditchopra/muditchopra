@@ -17,13 +17,13 @@
 
 I'm helping developers build and scale their apps on Cloud infrastructure. Looking to collaborate on projects involving cloud computing, infrastructure automation, and DevOps practices, leveraging tools like AWS, Terraform, Kubernetes, Jenkins, and monitoring solutions to build efficient, highily available and scalable systems.
 
-<h2> 🚀 About Me</h2>
+<h3> 🚀 About Me</h3>
 
 - **🔭 I’m currently working on:** Cloud-native applications, infrastructure as code, and CI/CD pipelines.
 - **🌱 I’m currently learning:** Advanced Kubernetes techniques and serverless architectures.
 - **👯 I’m looking to collaborate on:** Projects involving cloud computing and DevOps tools.
 
-<h2> 🛠️ Skills & Tools</h2>
+<h3> 🛠️ Skills & Tools</h3>
 
 Kubernetes, Docker, cloud computing (AWS, Azure, GCP), CI/CD (Jenkins, GitLab CI, GitHub Actions), infrastructure as code (Terraform, CloudFormation), and monitoring (Grafana, Prometheus).
 
