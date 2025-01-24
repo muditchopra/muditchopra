@@ -15,7 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/41297529/270094438-052969aa-e9b4-4791-a56f-029af377976e.png" alt="mudit" height="400" />
 
-<pre>I'm helping developers build and scale their apps on Cloud infrastructure. Looking to collaborate on projects involving cloud computing, infrastructure automation, and DevOps practices, leveraging tools like AWS, Terraform, Kubernetes, Jenkins, and monitoring solutions to build efficient, highily available and scalable systems.</pre>
+I'm helping developers build and scale their apps on Cloud infrastructure. Looking to collaborate on projects involving cloud computing, infrastructure automation, and DevOps practices, leveraging tools like AWS, Terraform, Kubernetes, Jenkins, and monitoring solutions to build efficient, highily available and scalable systems.
 
 <h2> 🚀 About Me</h2>
 
